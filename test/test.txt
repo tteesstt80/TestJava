@@ -1,2 +1,4 @@
-First edit first string
+New first
+First edit not first string
 Second string
+3 string
